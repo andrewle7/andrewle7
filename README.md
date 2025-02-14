@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning computer vision, pose-estimation and machine learning.
 - 🔭 I’m currently working on various performance analytics and biomechanics projects to enhance my portfolio.
-- 📫 How to reach me: [andrewle7@example.com](mailto:andrewle7@example.com)
+- 📫 How to reach me: [toandrewle@gmail.com](mailto:toandrewle7@gmail.com)
 
 ## Languages and Tools
 
