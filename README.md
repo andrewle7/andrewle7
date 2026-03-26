@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🌱 I'm currently learning computer vision, pose-estimation and machine learning.
-- 🔭 I’m currently working on various performance analytics and biomechanics projects to enhance my portfolio.
-- 📫 How to reach me: [toandrewle@gmail.com](mailto:toandrewle7@gmail.com)
+- I am currently working on projects pertaining to Agentic Workflows, AI Tooling, Model training, hardware optimization, and biomechanics processing/collection technology.
+- Currently learning NVIDIA GPU architecture, model ablation, LLM post-training, agentic optimizations
+- How to reach me: [toandrewle@gmail.com](mailto:toandrewle7@gmail.com)
 
 ## Languages and Tools
 
