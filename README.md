@@ -1,25 +1,9 @@
-# Hi there, I'm Andrew Le 👋
+# Andrew Le
 
-## About Me
+R&D engineer at Driveline Baseball in Seattle. I build player development tools, from the motion capture lab to the apps and AI agents coaches use. UW Informatics, 2024.
 
-- I am currently working on projects pertaining to Agentic Workflows, AI Tooling, Model training, hardware optimization, and biomechanics processing/collection technology.
-- Currently learning NVIDIA GPU architecture, model ablation, LLM post-training, agentic optimizations
-- How to reach me: [toandrewle@gmail.com](mailto:toandrewle7@gmail.com)
+**Skills:** AI agents and evals, machine learning and computer vision, full-stack software, frontend and UI/UX, user research.
 
-## Languages and Tools
+**Tools:** Python, TypeScript, Svelte, FastAPI, Postgres, MySQL, Docker, Playwright, Claude Code, MCP, vLLM, RF-DETR, OptiTrack, Theia3D.
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andrewlle)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://x.com/andrewletics)
+More at [andrewlytics.com](https://andrewlytics.com) · [LinkedIn](https://www.linkedin.com/in/andrewlle) · [X](https://x.com/andrewletics) · [toandrewle@gmail.com](mailto:toandrewle@gmail.com)
