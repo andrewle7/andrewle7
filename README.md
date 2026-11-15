@@ -6,4 +6,4 @@ R&D engineer at Driveline Baseball in Seattle. I build player development tools,
 
 **Tools:** Python, TypeScript, Svelte, FastAPI, Postgres, MySQL, Docker, Playwright, Claude Code, MCP, vLLM, RF-DETR, OptiTrack, Theia3D.
 
-More at [andrewlytics.com](https://andrewlytics.com) · [LinkedIn](https://www.linkedin.com/in/andrewlle) · [X](https://x.com/andrewletics) · [toandrewle@gmail.com](mailto:toandrewle@gmail.com)
+More at [andrewletics.com](https://andrewletics.com) · [LinkedIn](https://www.linkedin.com/in/andrewlle) · [X](https://x.com/andrewletics) · [toandrewle@gmail.com](mailto:toandrewle@gmail.com)
